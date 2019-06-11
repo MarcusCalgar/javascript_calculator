@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/balazs/Documents/Programming/JavaScript/calculator/index.html.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="background.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ececec"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1077.4048"
+     inkscape:cy="585.13681"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-11.249983)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="matrix(1.3425787,0,-0.20174405,0.7448353,0,0)"
+       id="text29"
+       y="311.68292"
+       x="319.10461"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.50811005px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.55635142"
+       xml:space="preserve"><tspan
+         id="tspan27"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.55635142">1</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text33"
+       y="178.36246"
+       x="232.27536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan31"
+         style="fill:#aa8800;stroke:#000000">2</tspan></text>
+    <text
+       transform="matrix(0.85878042,0,-0.35204851,1.164442,0,0)"
+       id="text37"
+       y="50.334309"
+       x="410.68399"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.52372932px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.3940466"
+       xml:space="preserve"><tspan
+         id="tspan35"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.3940466">3</tspan></text>
+    <text
+       transform="matrix(0.67923875,0.55176374,-0.72049831,0.88695639,0,0)"
+       id="text41"
+       y="2.4436147"
+       x="103.40047"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371;"
+       xml:space="preserve"><tspan
+         id="tspan39"
+         style="fill:#aa8800;stroke:#000000;">4</tspan></text>
+    <text
+       transform="matrix(0.87510486,-0.52906363,0,1.1427202,0,0)"
+       id="text45"
+       y="427.55383"
+       x="468.79248"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan43"
+         style="fill:#aa8800;stroke:#000000">5</tspan></text>
+    <text
+       transform="scale(0.9453858,1.0577692)"
+       id="text49"
+       y="223.70558"
+       x="109.65441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73004913px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.44662565"
+       xml:space="preserve"><tspan
+         id="tspan47"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.44662565">6</tspan></text>
+    <text
+       transform="matrix(0.87420916,0,0.70217143,1.143891,0,0)"
+       id="text53"
+       y="178.82463"
+       x="346.81113"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.35373306px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.24192168"
+       xml:space="preserve"><tspan
+         id="tspan51"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.24192168">7</tspan></text>
+    <text
+       transform="scale(0.84558222,1.1826171)"
+       id="text57"
+       y="233.42677"
+       x="486.25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.1121254px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.22640158"
+       xml:space="preserve"><tspan
+         id="tspan55"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.22640158">8</tspan></text>
+    <text
+       transform="matrix(1.1122804,0,-0.30231806,0.89905388,0,0)"
+       id="text61"
+       y="276.03812"
+       x="202.39549"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.47976303px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.45599705"
+       xml:space="preserve"><tspan
+         id="tspan59"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.45599705">9</tspan></text>
+    <text
+       transform="scale(1.2006214,0.83290203)"
+       id="text65"
+       y="338.8735"
+       x="153.21628"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.41171646px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.43014649"
+       xml:space="preserve"><tspan
+         id="tspan63"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.43014649">/</tspan></text>
+    <text
+       transform="matrix(0.81858734,0.39669213,-0.4794153,0.98928934,0,0)"
+       id="text69"
+       y="-5.8756237"
+       x="541.36823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.58084679px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.2322606"
+       xml:space="preserve"><tspan
+         id="tspan67"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.2322606">*</tspan></text>
+    <text
+       transform="scale(1.1949911,0.83682631)"
+       id="text73"
+       y="286.92224"
+       x="145.11682"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.25034332px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.42812932"
+       xml:space="preserve"><tspan
+         id="tspan71"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.42812932">-</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text77"
+       y="151.73557"
+       x="33.811752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan75"
+         style="fill:#aa8800;stroke:#000000">+</tspan></text>
+    <text
+       transform="scale(1.1722198,0.85308234)"
+       id="text81"
+       y="192.84053"
+       x="72.516075"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.59768295px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.41997105"
+       xml:space="preserve"><tspan
+         id="tspan79"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.41997105">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.82320213px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.21029004;"
+       x="53.052952"
+       y="81.185997"
+       id="text120"
+       transform="scale(0.84408869,1.1847096)"><tspan
+         id="tspan118"
+         style="stroke-width:0.21029004;fill:#aa8800;stroke:#000000;">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="413.99707"
+       y="168.60477"
+       id="text124"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         id="tspan122"
+         style="fill:#aa8800;stroke:#000000">4</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text136"
+       y="142.14326"
+       x="170.39359"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan134"
+         style="fill:#aa8800;stroke:#000000">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53580856px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.23169762"
+       x="537.79492"
+       y="-7.8357449"
+       id="text140"
+       transform="matrix(0.72378712,0.35772441,-0.54879635,1.1103847,0,0)"><tspan
+         id="tspan138"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.23169762">5</tspan></text>
+    <text
+       transform="matrix(0.81052802,-0.32992852,0.43082377,1.0583952,0,0)"
+       id="text144"
+       y="180.14473"
+       x="451.57034"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan142"
+         style="fill:#aa8800;stroke:#000000">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="26.307549"
+       y="115.51639"
+       id="text148"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         id="tspan146"
+         style="fill:#aa8800;stroke:#000000">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.41342545px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.46766782"
+       x="207.38663"
+       y="148.49821"
+       id="text152"
+       transform="matrix(0.64852713,0.75817178,-0.76166639,0.65151636,0,0)"><tspan
+         id="tspan150"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.46766782">6</tspan></text>
+    <text
+       transform="matrix(0.74585391,-0.45772313,0.59769919,0.97394308,0,0)"
+       id="text156"
+       y="135.7319"
+       x="-30.519329"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371;"
+       xml:space="preserve"><tspan
+         id="tspan154"
+         style="fill:#aa8800;stroke:#000000;">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.13995171px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.22674941"
+       x="6.2013721"
+       y="233.46703"
+       id="text160"
+       transform="matrix(0.71318226,-0.3046854,0.50657451,1.1857476,0,0)"><tspan
+         id="tspan158"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.22674941">3</tspan></text>
+    <text
+       transform="matrix(0.81251722,0.32499889,-0.42438662,1.0609927,0,0)"
+       id="text164"
+       y="90.17881"
+       x="510.65002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371;"
+       xml:space="preserve"><tspan
+         id="tspan162"
+         style="fill:#aa8800;stroke:#000000;">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="27.91819"
+       y="186.30092"
+       id="text168"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         id="tspan166"
+         style="fill:#aa8800;stroke:#000000">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.12795258px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.45159942"
+       x="401.70892"
+       y="159.77798"
+       id="text172"
+       transform="matrix(0.93068538,0.28990804,-0.30509508,0.97943999,0,0)"><tspan
+         id="tspan170"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.45159942">8</tspan></text>
+    <text
+       transform="matrix(0.80820082,-0.33460765,0.43730938,1.0562634,0,0)"
+       id="text176"
+       y="191.30911"
+       x="-22.170734"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.52370262px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.26904628"
+       xml:space="preserve"
+       inkscape:transform-center-x="-1.1339288"
+       inkscape:transform-center-y="0.3779758"><tspan
+         id="tspan174"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.26904628">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="129.44188"
+       y="169.59708"
+       id="text180"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         id="tspan178"
+         style="fill:#aa8800;stroke:#000000">/</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text184"
+       y="201.02011"
+       x="83.658249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan182"
+         style="fill:#aa8800;stroke:#000000">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.1701889px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.41462737"
+       x="95.110832"
+       y="63.353104"
+       id="text188"
+       transform="matrix(0.90702574,-0.21509101,0.24752698,1.0438063,0,0)"><tspan
+         id="tspan186"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.41462737">+</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text192"
+       y="237.07393"
+       x="304.19431"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan190"
+         style="fill:#aa8800;stroke:#000000">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.74940872px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.50936764"
+       x="108.30245"
+       y="139.24252"
+       id="text196"
+       transform="scale(1.0044037,0.9956156)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.50936764"
+         id="tspan194">-</tspan></text>
+    <text
+       transform="matrix(0.98770866,-0.53125069,0.42236644,0.78526955,0,0)"
+       id="text200"
+       y="303.21628"
+       x="-54.252529"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.85699463px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.73571247"
+       xml:space="preserve"><tspan
+         id="tspan198"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.73571247">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.19572449px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.68994653"
+       x="141.63377"
+       y="303.36981"
+       id="text204"
+       transform="matrix(0.98018709,-0.34739647,0.93435216,0.68906167,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.68994653"
+         id="tspan202">=</tspan></text>
+    <text
+       transform="matrix(1.0729125,-0.47218431,0.34363188,0.7808115,0,0)"
+       id="text208"
+       y="306.87592"
+       x="251.14885"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.59768295px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.41997105"
+       xml:space="preserve"><tspan
+         id="tspan206"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.41997105">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="100.12978"
+       y="100.30103"
+       id="text212"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         id="tspan210"
+         style="fill:#aa8800;stroke:#000000">9</tspan></text>
+    <text
+       transform="matrix(0.78902849,-0.37847398,0.89066483,0.84015538,0,0)"
+       id="text216"
+       y="382.07092"
+       x="140.59883"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan214"
+         style="fill:#aa8800;stroke:#000000">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.35317993px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.50441474"
+       x="28.968447"
+       y="50.702217"
+       id="text220"
+       transform="scale(1.0137693,0.98641773)"><tspan
+         id="tspan218"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.50441474">7</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text224"
+       y="142.80481"
+       x="266.53641"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan222"
+         style="fill:#aa8800;stroke:#000000">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.81311798px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.68516397"
+       x="260.39957"
+       y="288.93198"
+       id="text228"
+       transform="matrix(0.84369381,-0.61664182,0.56465599,0.77256642,0,0)"><tspan
+         id="tspan226"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.68516397">*</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text232"
+       y="175.05476"
+       x="312.08594"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan230"
+         style="fill:#aa8800;stroke:#000000">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.50811005px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.55635142"
+       x="118.7701"
+       y="126.96647"
+       id="text236"
+       transform="matrix(1.3425787,0,-0.20174405,0.7448353,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.55635142"
+         id="tspan234">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="205.75258"
+       y="206.87013"
+       id="text240"
+       transform="matrix(0.87510486,-0.52906363,0,1.1427202,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan238">5</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text244"
+       y="48.204922"
+       x="149.22948"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan242">4</tspan></text>
+    <text
+       transform="matrix(0.72378712,0.35772441,-0.54879635,1.1103847,0,0)"
+       id="text248"
+       y="-24.532257"
+       x="205.01422"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53580856px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.23169762"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.23169762"
+         id="tspan246">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="206.43013"
+       y="53.692032"
+       id="text252"
+       transform="matrix(0.81251721,0.32499889,-0.42438662,1.0609927,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan250">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="459.03391"
+       y="99.308716"
+       id="text256"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan254">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73004913px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.44662565"
+       x="265.18112"
+       y="152.59625"
+       id="text260"
+       transform="scale(0.94538581,1.0577692)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.44662565"
+         id="tspan258">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.47976303px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.45599705"
+       x="311.84631"
+       y="192.37543"
+       id="text264"
+       transform="matrix(1.1122804,0,-0.30231806,0.89905388,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.45599705"
+         id="tspan262">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.25034332px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.42812932"
+       x="268.15768"
+       y="197.03828"
+       id="text268"
+       transform="scale(1.1949911,0.83682631)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.42812932"
+         id="tspan266">-</tspan></text>
+    <text
+       inkscape:transform-center-y="0.3779758"
+       inkscape:transform-center-x="-1.1339288"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.52370262px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.26904628"
+       x="160.35188"
+       y="193.66379"
+       id="text272"
+       transform="matrix(0.80820082,-0.33460765,0.43730938,1.0562634,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.26904628"
+         id="tspan270">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="204.16422"
+       y="156.36632"
+       id="text276"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan274">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.85699463px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.73571247"
+       x="101.07001"
+       y="340.90848"
+       id="text280"
+       transform="matrix(0.98770866,-0.53125069,0.42236644,0.78526955,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.73571247"
+         id="tspan278">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.59768295px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.41997105"
+       x="167.31485"
+       y="105.99858"
+       id="text284"
+       transform="scale(1.1722198,0.85308234)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.41997105"
+         id="tspan282">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="297.37836"
+       y="77.312576"
+       id="text288"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan286">4</tspan></text>
+    <text
+       transform="scale(1.0044037,0.9956156)"
+       id="text292"
+       y="71.286835"
+       x="194.85582"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.74940872px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.50936764"
+       xml:space="preserve"><tspan
+         id="tspan290"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.50936764">-</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text296"
+       y="35.470348"
+       x="227.11456"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan294">9</tspan></text>
+    <text
+       transform="matrix(0.81251721,0.32499889,-0.42438662,1.0609927,0,0)"
+       id="text300"
+       y="-42.617451"
+       x="292.89297"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan298"
+         style="fill:#aa8800;stroke:#000000">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="262.51782"
+       y="56.446564"
+       id="text304"
+       transform="matrix(0.67923875,0.55176374,-0.72049831,0.88695639,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan302">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="249.3766"
+       y="327.62115"
+       id="text308"
+       transform="matrix(0.87510486,-0.52906363,0,1.1427202,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan306">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="-23.438396"
+       y="297.37796"
+       id="text312"
+       transform="matrix(0.78902849,-0.37847398,0.89066483,0.84015538,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan310">9</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text316"
+       y="216.89702"
+       x="328.90863"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan314">4</tspan></text>
+    <text
+       transform="matrix(0.72378712,0.35772441,-0.54879635,1.1103847,0,0)"
+       id="text320"
+       y="39.99501"
+       x="468.57312"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53580856px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.23169762"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.23169762"
+         id="tspan318">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="378.83588"
+       y="91.866417"
+       id="text324"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan322">7</tspan></text>
+    <text
+       transform="matrix(0.80820082,-0.33460765,0.43730938,1.0562634,0,0)"
+       id="text328"
+       y="147.39436"
+       x="296.69473"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.52370262px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.26904628"
+       xml:space="preserve"
+       inkscape:transform-center-x="-1.1339288"
+       inkscape:transform-center-y="0.3779758"><tspan
+         id="tspan326"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.26904628">8</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text332"
+       y="89.551018"
+       x="339.78741"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan330"
+         style="fill:#aa8800;stroke:#000000">/</tspan></text>
+    <text
+       transform="matrix(0.98770866,-0.53125069,0.42236644,0.78526955,0,0)"
+       id="text336"
+       y="301.74994"
+       x="194.73373"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.85699463px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.73571247"
+       xml:space="preserve"><tspan
+         id="tspan334"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.73571247">-</tspan></text>
+    <text
+       transform="matrix(0.87510486,-0.52906363,0,1.1427202,0,0)"
+       id="text340"
+       y="231.56628"
+       x="268.38113"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan338"
+         style="fill:#aa8800;stroke:#000000">5</tspan></text>
+    <text
+       transform="scale(1.1722198,0.85308234)"
+       id="text344"
+       y="133.91206"
+       x="229.54669"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.59768295px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.41997105"
+       xml:space="preserve"><tspan
+         id="tspan342"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.41997105">=</tspan></text>
+    <text
+       transform="matrix(0.81251721,0.32499889,-0.42438662,1.0609927,0,0)"
+       id="text348"
+       y="-57.296425"
+       x="437.34363"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan346"
+         style="fill:#aa8800;stroke:#000000">3</tspan></text>
+    <text
+       transform="matrix(0.80820082,-0.33460765,0.43730938,1.0562634,0,0)"
+       id="text352"
+       y="237.68466"
+       x="426.95947"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.52370262px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.26904628"
+       xml:space="preserve"
+       inkscape:transform-center-x="-1.1339288"
+       inkscape:transform-center-y="0.3779758"><tspan
+         id="tspan350"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.26904628">8</tspan></text>
+    <text
+       transform="matrix(0.69231208,0.53526862,-0.69895883,0.90402766,0,0)"
+       id="text356"
+       y="-86.27951"
+       x="411.57635"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan354"
+         style="fill:#aa8800;stroke:#000000">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="550.30908"
+       y="245.68919"
+       id="text360"
+       transform="scale(0.87510486,1.1427202)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan358">*</tspan></text>
+    <text
+       transform="scale(0.94538581,1.0577692)"
+       id="text364"
+       y="228.90344"
+       x="485.69452"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73004913px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.44662565"
+       xml:space="preserve"><tspan
+         id="tspan362"
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.44662565">6</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text368"
+       y="147.94701"
+       x="535.6015"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         id="tspan366"
+         style="fill:#aa8800;stroke:#000000">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="548.33289"
+       y="-44.787395"
+       id="text372"
+       transform="matrix(0.81251721,0.32499889,-0.42438662,1.0609927,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan370">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.59768295px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.41997105"
+       x="407.38898"
+       y="228.52824"
+       id="text376"
+       transform="scale(1.1722198,0.85308234)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.41997105"
+         id="tspan374">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.85699463px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.73571247"
+       x="306.8761"
+       y="307.91797"
+       id="text380"
+       transform="matrix(0.98770866,-0.53125069,0.42236644,0.78526955,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.73571247"
+         id="tspan378">-</tspan></text>
+    <text
+       transform="scale(0.8440887,1.1847096)"
+       id="text384"
+       y="36.066158"
+       x="560.93835"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.82320213px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.21029004"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000;stroke-width:0.21029004"
+         id="tspan382">4</tspan></text>
+    <text
+       transform="scale(0.87510486,1.1427202)"
+       id="text388"
+       y="68.738617"
+       x="516.19208"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       xml:space="preserve"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan386">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.08189583px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:0.31352371"
+       x="418.95975"
+       y="292.08914"
+       id="text392"
+       transform="matrix(0.74585391,-0.45772313,0.59769919,0.97394308,0,0)"><tspan
+         style="fill:#aa8800;stroke:#000000"
+         id="tspan390">6</tspan></text>
+  </g>
+</svg>
